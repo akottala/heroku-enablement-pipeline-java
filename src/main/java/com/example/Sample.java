@@ -5,7 +5,7 @@ public class Sample {
      return 10;
     }
     public static String string() {
-      return "Loan Ipsum !!";
+      return "Loan Ipsum";
     }
     public static int sum(int n, int m) {
       return n + m;
