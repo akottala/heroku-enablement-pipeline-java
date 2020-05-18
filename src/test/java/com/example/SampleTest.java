@@ -12,7 +12,7 @@ public class SampleTest {
 
    @Test
    public void testString() {
-     assertEquals("Loan Ipsum Test", Sample.string());
+     assertEquals("Loan Ipsum", Sample.string());
    }
 
    @Test public void testBiggestPrimeNumberOfInt() {
