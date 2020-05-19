@@ -8,7 +8,7 @@
     }
   ],
   "scripts": {
-    "postdeploy": "./bin/install.sh"
+    "postdeploy": "./bin/install.sh",
     "pr-predestroy": "./bin/destroy.sh"
   }
 }
