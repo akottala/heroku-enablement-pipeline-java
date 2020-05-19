@@ -2,4 +2,4 @@
  
 echo "Waiting for 30 seconds..."
 sleep 30
-exit 1
+echo "Completed!"
