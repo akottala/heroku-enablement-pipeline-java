@@ -1,5 +1,5 @@
 #!/bin/bash
  
 echo "Waiting for 30 seconds..."
-sleep 30
+sleep 5
 echo "Completed!"
